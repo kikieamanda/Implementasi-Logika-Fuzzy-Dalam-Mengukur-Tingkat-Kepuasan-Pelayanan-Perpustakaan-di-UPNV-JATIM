@@ -1,0 +1,2 @@
+# Implementasi-Logika-Fuzzy-Dalam-Mengukur-Tingkat-Kepuasan-Pelayanan-Perpustakaan-di-UPNV-JATIM
+This project measures student satisfaction with library services using fuzzy logic. Survey data reveals that 79.17% of students are highly satisfied, while 20.83% are moderately satisfied, with an average satisfaction score of 7.80. The findings emphasize the need for service improvements to achieve optimal satisfaction for all students.
